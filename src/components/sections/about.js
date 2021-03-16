@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['Vue', 'React', 'Node.js', 'SQL', 'Java', 'Java Pathfinder (JPF)'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -141,22 +141,21 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>My name is Matt, a Software Engineer based in Toronto, ON.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I enjoy challenging myself to learn new techonologies, whether they are web-based,
+              rooted in technical development or anything inbetween. My goal is to work on a wide
+              variety of software projects to expand the domain of skills in which I am familar.
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
+              I am presently a student at the{' '}
+              <a href="https://lassonde.yorku.ca/">Lassonde School of Engineering</a>, where I am in
+              my 4th year of study.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Recently I have been working on developing the following skills:</p>
           </div>
 
           <ul className="skills-list">
