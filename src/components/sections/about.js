@@ -145,7 +145,7 @@ const About = () => {
 
             <p>
               I enjoy challenging myself to learn new techonologies, whether they are web-based,
-              rooted in technical development or anything inbetween. My goal is to work on a wide
+              rooted in technical development or anything in between. My goal is to work on a wide
               variety of software projects to expand the domain of skills in which I am familar.
             </p>
 

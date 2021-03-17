@@ -48,10 +48,10 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hey there, I'm </h1>;
-  const two = <h2 className="big-heading">Matthew Walker.</h2>;
+  const two = <h2 className="big-heading">Matthew Walker</h2>;
   const three = (
     <h3 className="big-heading">
-      I build software that <i>works</i>.
+      I build software that <i>works</i>
     </h3>
   );
   const four = (
