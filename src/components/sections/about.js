@@ -144,9 +144,9 @@ const About = () => {
             <p>My name is Matt, a Software Engineer based in Toronto, ON.</p>
 
             <p>
-              I enjoy challenging myself to learn new techonologies, whether they are web-based,
+              I enjoy challenging myself to learn new technologies, whether they are web-based,
               rooted in technical development or anything in between. My goal is to work on a wide
-              variety of software projects to expand the domain of skills in which I am familar.
+              variety of software projects to expand the domain of skills in which I am familiar.
             </p>
 
             <p>
@@ -155,7 +155,7 @@ const About = () => {
               my 4th year of study.
             </p>
 
-            <p>Recently I have been working on developing the following skills:</p>
+            <p>Recently, I have been working on developing the following skills:</p>
           </div>
 
           <ul className="skills-list">

@@ -2,7 +2,7 @@
 date: '1'
 title: 'CTL Toolbox'
 cover: './ctl.PNG'
-github: ''
+github: 'https://github.com/matthewwalk/LTL_to_PNF'
 external: ''
 tech:
   - Java
@@ -13,5 +13,3 @@ showInProjects: true
 ---
 
 A tool/library which contain(s); Linear Temporal Logic (LTL) to Positive Normal Form (PNF) Converter, CTL to PNF Converter, and Basic Propositional Logic solving on CTL formulae.
-
-Presently, this project is Private and in development. Stay tuned!
