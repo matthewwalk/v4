@@ -2,6 +2,7 @@
 date: '4'
 title: 'New Creation Studios'
 cover: './ncs.png'
+github: 'https://github.com/matthewwalk/newcreationstudios'
 external: 'https://www.newcreationstudios.com/'
 tech:
   - AWS
