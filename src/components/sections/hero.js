@@ -56,8 +56,8 @@ const Hero = () => {
   );
   const four = (
     <p>
-      I'm a software engineer based in Toronto, ON who specializes in building websites,
-      applications, and everything in between
+      I'm a software engineer based in Toronto, ON who specializes in System Verification,
+      Big Data, and backend-development.
     </p>
   );
   const five = (

@@ -3,7 +3,7 @@ date: '2021-05-01'
 title: 'Software Engineering Research Assistant'
 company: 'Lassonde School of Engineering'
 location: 'Toronto, ON'
-range: 'May 2021 - Present'
+range: 'May 2021 - April 2022'
 url: 'http://www.lassondeundergraduateresearch.com/'
 ---
 
